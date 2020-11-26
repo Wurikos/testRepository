@@ -21,5 +21,5 @@ export default {
 		}
 	},
 	"mode": "production",
-	"projectType": "gatsby"
+	"projectType": "create-react-app"
 }
